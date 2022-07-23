@@ -4,3 +4,4 @@
 <br>
 <br>
 1. Exercício sobre os dados de uma livraria.
+2. Exercício com dados de uma empresa (banco de dados maior).
